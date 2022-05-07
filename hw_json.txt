@@ -32,4 +32,6 @@
 16) git push
 
 17) Add file --> Creat new file --> commit new file
-18) 
+18) git add . --> git commit -am "all"
+19) git pull --> git push
+20)
