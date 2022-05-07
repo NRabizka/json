@@ -31,7 +31,10 @@
 15) git commit -m "preferences/sklls.json"
 16) git push
 
-17) Add file --> Creat new file --> commit new file
+17) Add file --> Creat new file --> commit new file (bug_report.json)
 18) git add . --> git commit -am "all"
 19) git pull --> git push
-20)
+20) модифицировать файл bug_report.json --> Commit changes
+21) Синхронизировать: git add bug_report.json
+                      git commit -am "Summary"
+                      git pull --> git push
