@@ -32,8 +32,8 @@
 16) git push
 
 17) Add file --> Creat new file --> commit new file (bug_report.json)
-18) git add .|git commit -m "changes"|git push
+18) git add .| git commit -m "changes"| git push
 19) модифицировать файл bug_report.json --> Commit changes
 20) Синхронизировать: git add bug_report.json
                       git commit -am "Summary"
-                      git pull --> git push
+                      git pull
